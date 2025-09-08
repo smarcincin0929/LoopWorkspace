@@ -290,6 +290,7 @@ jobs:
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           profiles \
           basal_lock \
+          low_carb_limit \
           future_carbs_4h
 
           # the final customization listed above CANNOT have a continuation character
